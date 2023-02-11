@@ -1,0 +1,10 @@
+RUN	com.gatling.test.api.FeedersDemo	feedersdemo	1676098409099	run8	3.6.1
+USER	Feeders Demo	START	1676098415076
+USER	Feeders Demo	START	1676098415076
+USER	Feeders Demo	START	1676098415077
+ERROR	Goto home page: Failed to build request: No baseUrl defined but provided url is relative : /#{page} 	1676098416381
+ERROR	Goto home page: Failed to build request: No baseUrl defined but provided url is relative : /#{page} 	1676098416381
+ERROR	Goto home page: Failed to build request: No baseUrl defined but provided url is relative : /#{page} 	1676098416381
+USER	Feeders Demo	END	1676098416387
+USER	Feeders Demo	END	1676098416387
+USER	Feeders Demo	END	1676098416387
